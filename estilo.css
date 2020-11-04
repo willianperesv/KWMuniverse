@@ -1,0 +1,24 @@
+body{
+    background-image: url("fundo2.jpg");     /*imagem de fundo: url("endereço) */
+    background-size: cover;                 /*ele cobre a extensão do background */
+    width: 1860px; height: 500px;           /*largura ;  altura */
+    background-position: center;
+}
+div#headline1 {
+    background-size: auto;                  /* tamanho de fundo: central*/
+    background-image: url('kwmlogo.png');   
+    background-repeat: no-repeat;            /* não deixa o logo repetir*/
+    background-position: center;              /*mantem a posição */
+    padding-top:120px;                        /* preenchimento do top */
+    margin-bottom:120px;                       /*preencimento de baixo */
+}
+div#headline2 {
+
+    
+}
+
+footer{
+    font-style: oblique;
+    text-underline-position: below;
+
+}
